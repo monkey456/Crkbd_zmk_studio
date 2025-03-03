@@ -53,7 +53,7 @@
 //                            |  ALT   |   LWR   |   SPC   |       |  RET  |   BKSP  |   GUI   |
 //                            '--------+---------+---------'       '-------+---------+---------'
                         bindings = <
-     &kp ESC  &kp T      &kp Q     &kp W    &kp E   &kp R          &kp Y      &kp U     &kp I      &kp O    &kp P     &kp LBKT
+     &kp ESC  &studio_unlock      &kp Q     &kp W    &kp E   &kp R          &kp Y      &kp U     &kp I      &kp O    &kp P     &kp LBKT
      &kp G    &kp LSHFT  &kp A     &kp S    &kp D   &kp F          &kp H      &kp J     &kp K      &kp L    &kp SEMI  &kp SQT
      &kp Z    &kp LCTRL  &kp H     &kp C    &kp V   &kp B          &kp N      &kp M     &kp COMMA  &kp DOT  &kp FSLH  &kp RBKT
                          &kp LALT  &mo LWR  &kp SPACE              &kp ENTER  &kp BSPC  &kp LWIN
